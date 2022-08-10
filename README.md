@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">Software Engineer building a network of Software Engineers</h3>
 
-- 📄 Know about my experiences [https://resume.io/r/cTalI1fxi](https://resume.io/r/cTalI1fxi)
 
-- ⚡ Fun fact: **How big would you dream if you knew you wouldn't fail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
